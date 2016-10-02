@@ -1,10 +1,10 @@
-# hello-world
-GitHub hello world tutorial
-
 ## Hello dear world!
 
 ### Hello again!
-* First bullet
-* Second bullet
+* Ciao
+* Salut
+* Hallo
+* Hi
+* Servus
 
 A [link to heise](http://www.heise.de).
