@@ -14,7 +14,7 @@ A [link to heise](http://www.heise.de).
 ```c++
 class A
 {
-    public:
+public:
     A()
     {
        for (auto i=0; i<5; ++i)
