@@ -7,4 +7,4 @@ GitHub hello world tutorial
 * First bullet
 * Second bullet
 
-A [link to heise[(http://www.heise.de).
+A [link to heise](http://www.heise.de).
